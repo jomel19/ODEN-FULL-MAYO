@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="LIGA 1 MAX" tvg-logo="http://odenfull.co:2086/images/fa16a32fff5cfd974c0e0c860473a7f8.png" group-title="PERU",LIGA 1 MAX
+http://odenfull.co:2086/12345678/87654321/279387
+#EXTINF:-1 tvg-id="" tvg-name="TUDN USA" tvg-logo="http://odenfull.co:2086/images/6512bd43d9caa6e02c990b0a82652dca.png" group-title="TUDN",TUDN USA
+http://odenfull.co:2086/12345678/87654321/210627
+#EXTINF:-1 tvg-id="" tvg-name="TUDN OPC 2" tvg-logo="http://odenfull.co:2086/images/6512bd43d9caa6e02c990b0a82652dca.png" group-title="TUDN",TUDN OPC 2
+http://odenfull.co:2086/12345678/87654321/210628
+#EXTINF:-1 tvg-id="" tvg-name="TUDN OPC 3" tvg-logo="http://odenfull.co:2086/images/6512bd43d9caa6e02c990b0a82652dca.png" group-title="TUDN",TUDN OPC 3
+http://odenfull.co:2086/12345678/87654321/210629
+#EXTINF:-1 tvg-id="" tvg-name="KINGSLEAGUE " tvg-logo="http://odenfull.co:2086/images/c23500e609a02bbb837b7016b9ecc895.png" group-title="EVENTOS DEL DIA ",KINGSLEAGUE 
+http://odenfull.co:2086/12345678/87654321/145895
+#EXTINF:-1 tvg-id="" tvg-name="⚽️ESPN 3⚽️" tvg-logo="https://th.bing.com/th/id/OIP.PBQuAjBgNv-WnoPKoJn3iQHaFj?w=199&h=180&c=7&r=0&o=5&pid=1.7" group-title="EVENTOS DEL DIA ",⚽️ESPN 3⚽️
+http://odenfull.co:2086/12345678/87654321/212841
+#EXTINF:-1 tvg-id="ESPN 3 Sur Arg" tvg-name="FOX PREMIUM " tvg-logo="https://th.bing.com/th/id/OIP.PBQuAjBgNv-WnoPKoJn3iQHaFj?w=199&h=180&c=7&r=0&o=5&pid=1.7" group-title="EVENTOS DEL DIA ",FOX PREMIUM 
+http://odenfull.co:2086/12345678/87654321/212845
+#EXTINF:-1 tvg-id="" tvg-name="⚽️ESPN DEPORTES⚽️ " tvg-logo="http://odenfull.co:2086/images/5bbb7fa705e5923a9ea49ef5ac150848.jpg" group-title="EVENTOS DEL DIA ",⚽️ESPN DEPORTES⚽️ 
+http://odenfull.co:2086/12345678/87654321/212846
+#EXTINF:-1 tvg-id="" tvg-name="⚽️MOVISTAR DEPORTE⚽️" tvg-logo="http://odenfull.co:2086/images/1fea593ba247fd8300a60a732516d11a.jpg" group-title="EVENTOS DEL DIA ",⚽️MOVISTAR DEPORTE⚽️
+http://odenfull.co:2086/12345678/87654321/212847
+#EXTINF:-1 tvg-id="" tvg-name="⚽️FOX SOCCER PLUS 1⚽️" tvg-logo="https://th.bing.com/th/id/OIP.zOWp-chgqoRv46aug_mO8AHaGl?w=195&h=180&c=7&r=0&o=5&pid=1.7" group-title="EVENTOS DEL DIA ",⚽️FOX SOCCER PLUS 1⚽️
+http://odenfull.co:2086/12345678/87654321/212848
+#EXTINF:-1 tvg-id="" tvg-name="OUTSIDE HD" tvg-logo="http://odenfull.co:2086/images/254ec49f822234cba728489d0442f4d9.jpg" group-title="EVENTOS DEL DIA ",OUTSIDE HD
+http://odenfull.co:2086/12345678/87654321/212849
+#EXTINF:-1 tvg-id="" tvg-name="⚽️TUDN EVENTOS⚽️" tvg-logo="http://odenfull.co:2086/images/996f778d08234b3fb00ad0f9fcf6115b.png" group-title="EVENTOS DEL DIA ",⚽️TUDN EVENTOS⚽️
+http://odenfull.co:2086/12345678/87654321/212850
+#EXTINF:-1 tvg-id="" tvg-name="⚽️LA LIGA 2⚽️ " tvg-logo="https://th.bing.com/th/id/OIP.aodK3XbD1Ej7rFoz1wppFQHaHa?w=194&h=194&c=7&r=0&o=5&pid=1.7" group-title="EVENTOS DEL DIA ",⚽️LA LIGA 2⚽️ 
+http://odenfull.co:2086/12345678/87654321/212877
+#EXTINF:-1 tvg-id="" tvg-name="⚽️ESPN  PLUS ⚽️" tvg-logo="https://th.bing.com/th/id/OIP.PBQuAjBgNv-WnoPKoJn3iQHaFj?w=199&h=180&c=7&r=0&o=5&pid=1.7" group-title="EVENTOS DEL DIA ",⚽️ESPN  PLUS ⚽️
+http://odenfull.co:2086/12345678/87654321/213261
+#EXTINF:-1 tvg-id="" tvg-name="⚽️MOVISTAR  LA LIGA⚽️" tvg-logo="https://th.bing.com/th/id/OIP.aodK3XbD1Ej7rFoz1wppFQHaHa?w=194&h=194&c=7&r=0&o=5&pid=1.7" group-title="EVENTOS DEL DIA ",⚽️MOVISTAR  LA LIGA⚽️
+http://odenfull.co:2086/12345678/87654321/213295
+#EXTINF:-1 tvg-id="" tvg-name="⚽️TUDN usa HD⚽️ " tvg-logo="http://odenfull.co:2086/images/996f778d08234b3fb00ad0f9fcf6115b.png" group-title="EVENTOS DEL DIA ",⚽️TUDN usa HD⚽️ 
+http://odenfull.co:2086/12345678/87654321/213914
+#EXTINF:-1 tvg-id="" tvg-name="COPA LIBERTADORES⚽️ (SOLO EVENTOS) " tvg-logo="https://th.bing.com/th/id/OIP.aodK3XbD1Ej7rFoz1wppFQHaHa?w=194&h=194&c=7&r=0&o=5&pid=1.7" group-title="EVENTOS DEL DIA ",COPA LIBERTADORES⚽️ (SOLO EVENTOS) 
+http://odenfull.co:2086/12345678/87654321/214470
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2" tvg-logo="https://yt3.ggpht.com/a/AGF-l78RoSgQNS0AjYVsVM4JEHMmx0xgFdKvj09nfw=s900-c-k-c0xffffffff-no-rj-mo" group-title="EVENTOS DEL DIA ",DIRECTV SPORTS 2
+http://odenfull.co:2086/12345678/87654321/219220
+#EXTINF:-1 tvg-id="" tvg-name="TUDN MX" tvg-logo="http://odenfull.co:2086/images/996f778d08234b3fb00ad0f9fcf6115b.png" group-title="EVENTOS DEL DIA ",TUDN MX
+http://odenfull.co:2086/12345678/87654321/234940
